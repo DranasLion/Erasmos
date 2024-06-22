@@ -1,6 +1,7 @@
 .razz
 {
 width: 500px;
+padding: 0px 4px 4px 4px;
 background-color: #000;
 text-align: justify;
 font-family: tahoma;
@@ -8,10 +9,6 @@ font-size:11px;
 color: #f5e3e8;
 border-radius: 10px;
 border: 2px solid #bc9355;
-}
-.razz p
-{
-padding: 0px 0px 0px 0px;
 }
 .razz t
 {
