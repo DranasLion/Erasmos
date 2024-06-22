@@ -3,7 +3,7 @@
 width: 500px;
 background-color: #000;
 font-family: tahoma;
-font-size:11px;
+font-size: 11px;
 color: #f5e3e8;
 text-align: justify;
 border-radius: 10px;
@@ -11,7 +11,7 @@ border: 2px solid #bc9355;
 }
 .razz t
 {
-font-weight:bold;
+font-weight: bold;
 font-variant: small-caps;
 color: #dfa0b1;
 }
@@ -23,6 +23,6 @@ padding: 4px;
 {
 font-style:italic;
 font-family:Arial;
-font-size:9px;
+font-size: 9px;
 color: #C0C0C0;
 }
