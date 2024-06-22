@@ -2,13 +2,9 @@
 {
 width: 500px;
 background-color: #000;
-font-family: tahoma;
-font-size:11px;
-color: #f5e3e8;
 text-align: justify;
 border-radius: 10px;
 border: 2px solid #bc9355;
-padding: 2%;
 }
 .razz t
 {
@@ -18,12 +14,15 @@ color: #dfa0b1;
 }
 .razz p
 {
-padding: 2%;
+font-family: tahoma;
+font-size:11px;
+color: #f5e3e8;
+padding: 2px;
 }
 .razz .ooc
 {
 font-style:italic;
-padding 2px;
+padding: 2px;
 font-family:Arial;
 font-size:9px;
 color: #C0C0C0;
